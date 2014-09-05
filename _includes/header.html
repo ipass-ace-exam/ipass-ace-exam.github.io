@@ -1,0 +1,31 @@
+
+<br />
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <img src="{{BASE_PATH}}/assets/images/{% if page.image %}{{ page.image }}{% else %}road.jpg{% endif %}" alt="First slide">
+                        <div class="carousel-caption">
+                            <a href="{{ BASE_PATH }}/archive.html" class="btn btn-clear btn-lg btn-min-block">view all posts</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-text hidden-xs">
+                <div class="col-md-12 text-center">
+                    <div id="caption">
+                        <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                        <h3>{% if page.tagline %}{{ page.tagline }}{% else %}{{ site.tagline }}{% endif %}</h3>
+                        <div class="">
+                            <a class="btn btn-clear btn-sm btn-min-block" href="https://twitter.com/{{site.author.twitter}}" target="_blank">Twitter</a>
+                            <a class="btn btn-clear btn-sm btn-min-block" href="https://www.facebook.com/{{site.author.facebook}}" target="_blank">Facebook</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="push"></div>
