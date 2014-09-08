@@ -94,7 +94,7 @@ JB:
     provider: googleUA
     googleUA:
       tracking_id: 'UA-8933957-5'
-      property_name: 'www.ipass-ace-exam.com'
+#      property_name: 'www.ipass-ace-exam.com'
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
