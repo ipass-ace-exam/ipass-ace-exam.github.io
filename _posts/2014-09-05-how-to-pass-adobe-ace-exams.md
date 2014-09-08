@@ -3,12 +3,15 @@ layout: post
 title: "How to pass Adobe ACE exams"
 tagline: ""
 date: 2014-09-05
-category: Certification
+category: ["Advice"]
 tags: ["Adobe","ACE","Photoshop","Illustrator","InDesign","DreamWeaver","Flash","Acrobat"]
+image: posts/ooo.jpg
+author:
+  name: 'Courtenay Probert'
+  twitter: 'c_probert'
+  website: 'http://courtenay.probert.me.uk'
 ---
 {% include JB/setup %}
-
-
 
 So you've decided to go for it and sit an Adobe ACE exam - good for you.  While professional certification doesn't replace having a great portfolio it does show that you’re serious about your continued professional development.  This commitment could make the difference between getting that interview or not.
 

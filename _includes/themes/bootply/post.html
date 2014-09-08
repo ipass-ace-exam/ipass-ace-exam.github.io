@@ -1,5 +1,12 @@
 <div class="page-header">
   <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
+  {% if page.author.name %}
+    {% if page.author.website %}
+      <p>by: <a href="{{ page.author.website }}" target="blank" rel="external">{{ page.author.name }}</a></p>
+    {% else %}
+      <p>by: {{ page.author.name }}</p>
+    {% endif %}
+  {% endif %}
   <div class="date pull-right">
       Published: 
       <date class="date-pub" title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}" pubdate>
