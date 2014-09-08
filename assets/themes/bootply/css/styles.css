@@ -40,9 +40,17 @@ footer {
   display:block;
 }
 
-a,a:hover {
-  color:#223344;
+a, a:hover {
+  color: #0066CC;
   text-decoration:none;
+}
+
+#carousel a {
+  color: #FFF;
+}
+
+#carousel a:hover {
+  color: #223344;
 }
 
 .icon-bar {
