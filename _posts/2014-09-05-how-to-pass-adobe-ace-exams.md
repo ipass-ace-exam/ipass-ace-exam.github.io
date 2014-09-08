@@ -5,7 +5,7 @@ tagline: ""
 date: 2014-09-05
 category: ["Advice"]
 tags: ["Adobe","ACE","Photoshop","Illustrator","InDesign","DreamWeaver","Flash","Acrobat"]
-image: posts/ooo.jpg
+image: posts/testing-room-v1.jpg
 author:
   name: 'Courtenay Probert'
   twitter: 'c_probert'
@@ -38,9 +38,9 @@ We are all individual, we all absorb information at different rates and through 
 
 **Get a feel for the exam**
 
-We also encourage exam candidates to prepare using sample exam questions. iPassExam's questions are written in a similar style and theme as the exam, so they can be a very useful guide of what to expect, and also of how ready you actually are to take the real test. The questions also enable candidates to benchmark their performance, allowing users to learn about any areas of possible weakness that could be improved upon. Practice what you have learned, lots of our users say that using practice questions has given them the edge on taking the exam. Knowing you have taken the appropriate amount of time to prepare and also having a good idea of what to expect can take all of the stress out of the whole process.  Checkout [iPassExams Adobe ACE's products](https://www.ipassexam.com/catalog#adobe-certified-expert) or [try the FREE trials](https://www.ipassexam.com/p/adobe-certified-expert-study-trial).
+We also encourage exam candidates to prepare using sample exam questions. iPassExam's questions are written in a similar style and theme as the exam, so they can be a very useful guide of what to expect, and also of how ready you actually are to take the real test. The questions also enable candidates to benchmark their performance, allowing users to learn about any areas of possible weakness that could be improved upon. Practice what you have learned, lots of our users say that using practice questions has given them the edge on taking the exam. Knowing you have taken the appropriate amount of time to prepare and also having a good idea of what to expect can take all of the stress out of the whole process.  Checkout [iPassExam's Adobe ACE's products](https://www.ipassexam.com/catalog#adobe-certified-expert) or [try the FREE trials](https://www.ipassexam.com/p/adobe-certified-expert-study-trial).
 
-**TIP:*** Don’t take the test before you are ready! There’s nothing worse than an exam fail to fill you with self-doubt!
+**TIP:** Don’t take the test before you are ready! There’s nothing worse than an exam fail to fill you with self-doubt!
 
 
 Sitting the Exam

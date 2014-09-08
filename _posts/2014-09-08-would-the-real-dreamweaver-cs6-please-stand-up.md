@@ -33,7 +33,7 @@ The answer is the Dreamweaver CS6 ACE exam is written for the last perpetual lic
 
 So if you have the perpetual license version make sure you patch to the latest version.  
 
-**What if your using the Creative Cloud version of Dreamweaver CS6?**
+**What if  you’re using the Creative Cloud version of Dreamweaver CS6?**
 
 My advice: If you have a Creative Cloud subscription we advise updating your Dreamweaver to CC and sitting the CC Exam.
 
