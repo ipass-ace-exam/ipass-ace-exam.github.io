@@ -26,7 +26,7 @@ Give yourself the best chance of passing and a smooth and stress free revision e
 
 **Allow yourself a quiet, clear and well lit space to study**
 
-There's nothing worse than that feeling of frustration or restlessness that can come from noise and distraction. It can draw out you’re learning process make it arduous and unpleasant.   A clear space can make it easier to concentrate. Good lighting will aid in better concentration too and prevent tired eyes and headaches.
+There's nothing worse than that feeling of frustration or restlessness that can come from noise and distraction.  It can draw out your learning process, making it arduous and unpleasant. A clear space can make it easier to concentrate. Good lighting will aid in better concentration too and prevent tired eyes and headaches.
 
 **Plan to revise in a realistic way that works for you**
 
@@ -46,7 +46,7 @@ We also encourage exam candidates to prepare using sample exam questions. iPassE
 Sitting the Exam
 ----------------
 
-You can mark questions for review and come back to them later- make use of this facility! One question can make the difference between a pass and a fail.  Note the questions you’re unsure of and review once you’ve answered every questions.  Sometimes information is 'leaked' by later questions in the text that might provide you with enough information to choose the correct option on a question you were uncertain about.
+You can mark questions for review and come back to them later- make use of this facility! One question can make the difference between a pass and a fail.  Note the questions you’re unsure of and review once you’ve answered every question.  Sometimes information is 'leaked' by later questions in the text that might provide you with enough information to choose the correct option on a question you were uncertain about.
 
 Some questions have many right answers, but only one best answer. 
 Being a creative designer you know there are multiple ways to implement a solution so there were some questions where I could identify multiple “right” answers. However, Adobe wants you to choose the “best” answer.
