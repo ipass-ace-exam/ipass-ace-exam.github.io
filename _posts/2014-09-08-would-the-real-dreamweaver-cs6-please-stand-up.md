@@ -2,7 +2,7 @@
 layout: post
 title: "Would the real Dreamweaver CS6 please stand up!"
 tagline: ""
-date: {}
+date: "2014-09-08"
 category: 
   - Exam
 tags: 
