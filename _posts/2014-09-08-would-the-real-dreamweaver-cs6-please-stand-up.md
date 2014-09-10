@@ -2,18 +2,22 @@
 layout: post
 title: "Would the real Dreamweaver CS6 please stand up!"
 tagline: ""
-date: 2014-09-08
-category: ["Exam"]
-tags: ["DreamWeaver"]
-image: posts/sneaky-man-v1.jpg
-author:
-  name: 'Courtenay Probert'
-  twitter: 'c_probert'
-  website: 'http://courtenay.probert.me.uk'
+date: {}
+category: 
+  - Exam
+tags: 
+  - DreamWeaver
+image: "posts/sneaky-man-v1.jpg"
+author: 
+  name: Courtenay Probert
+  twitter: c_probert
+  website: "http://courtenay.probert.me.uk"
+published: true
 ---
+
 {% include JB/setup %}
 
-Over at iPassExam we’ve been receiving comments from our customers regarding the placement of options in menus for the Dreamweaver CS 6 exam.
+Over at iPassExam we’ve been receiving a few comments from our customers regarding the placement of options in menus for the Dreamweaver CS 6 exam.
 
 **Why is this important?**
 
