@@ -3,7 +3,7 @@ layout: page
 title: iPass ACE Exam
 #tagline: blogging changes to the Adobe ACE exam landscape
 header: Welcome to iPass-ACE-Exam
-image: road.jpg
+image: lightshow.jpg
 ---
 {% include JB/setup %}
 
