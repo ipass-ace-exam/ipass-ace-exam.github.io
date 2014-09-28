@@ -15,7 +15,7 @@ published: true
 
 {% include JB/setup %}
 
-The choice to prepare for and sit the Adobe ACE exams is a good one. Though the personal reasons and incentives between everyone varies, it is going to be 	a sure-fire way to prove your skills and competence with the Adobe software.
+The choice to prepare for and sit the Adobe ACE exams is always going to be a good one. Though the personal reasons and incentives between everyone varies, it is going to be 	a sure-fire way to prove your skills and competence with the Adobe software.
 
 **What is the advantage of passing the Adobe ACE exams?**
 
@@ -27,7 +27,7 @@ Apart from the recognition of passing the Adobe ACE exams and the potential care
 
 This is a question that I have considered for quite some time. It is surely an opinionated question, since the right time to sit an exam is when YOU believe you're ready to. But often, it is not easy to deduce when you are fully prepared to take the leap.
 
-It is important to know for sure and be confident in your decision to sit the exam, since the cost of sitting the exams is not something you would want to endure multiple times. We have collected together a few pointers for you to think about when deciding whether you're ready to sit the Adobe ACE exams:
+It is important to know for sure and be confident in your decision to sit the exams, since you would not want to endure the cost of sitting one exam multiple times. We have collected together a few pointers for you to think about when deciding whether you're ready to sit the Adobe ACE exams:
 
 * The most important point to remember is that you need to be confident in using the software that you are being reviewed on – this can take time. Think about how long you have used the software and allow this to form part of your decision.
 
@@ -39,6 +39,6 @@ It is important to know for sure and be confident in your decision to sit the ex
 
 * Take note of how successful you are when sitting the exam-style questions. If you find that you're performance is below par, then it might be worth concentrating on expanding your knowledge. Remember, doing this is not an admission of failure but proof that you're taking your education seriously and that in the end you will settle for nothing but success.
 
-As mentioned previously, only you can say when you are ready to take the exam, but ensuring that you are well prepared will give you the best probability of success.
+In summary, only you can say when you are ready to take the exam, but ensuring that you are well prepared will give you the best probability of success.
 
-Has this post been helpful? Let us know below.
+Has this post been helpful? Let us know in the comments mbelow.
