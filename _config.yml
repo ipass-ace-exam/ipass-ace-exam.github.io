@@ -93,7 +93,7 @@ JB:
   analytics:
     provider: googleUA
     googleUA:
-      tracking_id: 'UA-8933957-5'
+      tracking_id: 'UA-58947192-1'
 #      property_name: 'www.ipass-ace-exam.com'
 
   # Settings for sharing helper. 
