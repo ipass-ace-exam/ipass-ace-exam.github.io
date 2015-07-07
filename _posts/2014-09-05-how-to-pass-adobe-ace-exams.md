@@ -38,7 +38,7 @@ We are all individual, we all absorb information at different rates and through 
 
 **Get a feel for the exam**
 
-We also encourage exam candidates to prepare using sample exam questions. iPassExam's questions are written in a similar style and theme as the exam, so they can be a very useful guide of what to expect, and also of how ready you actually are to take the real test. The questions also enable candidates to benchmark their performance, allowing users to learn about any areas of possible weakness that could be improved upon. Practice what you have learned, lots of our users say that using practice questions has given them the edge on taking the exam. Knowing you have taken the appropriate amount of time to prepare and also having a good idea of what to expect can take all of the stress out of the whole process.  Checkout [iPassExam's Adobe ACE's products](https://www.ipassexam.com/catalog#adobe-certified-expert) or [try the FREE trials](https://www.ipassexam.com/p/adobe-certified-expert-study-trial).
+We also encourage exam candidates to prepare using sample exam questions. iPassExam's questions are written in a similar style and theme as the exam, so they can be a very useful guide of what to expect, and also of how ready you actually are to take the real test. The questions also enable candidates to benchmark their performance, allowing users to learn about any areas of possible weakness that could be improved upon. Practice what you have learned, lots of our users say that using practice questions has given them the edge on taking the exam. Knowing you have taken the appropriate amount of time to prepare and also having a good idea of what to expect can take all of the stress out of the whole process.  Checkout [iPassExam's Adobe ACE's products](https://www.ipassexam.com/c/adobe) or [try the FREE trials](https://www.ipassexam.com/p/adobe-certified-expert-study-trial).
 
 **TIP:** Don’t take the test before you are ready! There’s nothing worse than an exam fail to fill you with self-doubt!
 
@@ -48,12 +48,12 @@ Sitting the Exam
 
 You can mark questions for review and come back to them later- make use of this facility! One question can make the difference between a pass and a fail.  Note the questions you’re unsure of and review once you’ve answered every question.  Sometimes information is 'leaked' by later questions in the text that might provide you with enough information to choose the correct option on a question you were uncertain about.
 
-Some questions have many right answers, but only one best answer. 
+Some questions have many right answers, but only one best answer.
 Being a creative designer you know there are multiple ways to implement a solution so there were some questions where I could identify multiple “right” answers. However, Adobe wants you to choose the “best” answer.
 
 There’s no way to pause the exam once you’ve started, so make sure you use the toilet beforehand, as you’re going to be sat in the test centre a while!
 
-It's all too easy to be overwhelmed in an exam setting, letting your fear of failure stop you from focusing on the task at hand.  So try not to rush, keep a clear mind and try to enjoy yourself. 
+It's all too easy to be overwhelmed in an exam setting, letting your fear of failure stop you from focusing on the task at hand.  So try not to rush, keep a clear mind and try to enjoy yourself.
 
 Beware trick questions. Many questions will have more than one answer that appears to make sense. Take your time, study the wording closely and choose the answer that seems most correct in the context of the question.
 
